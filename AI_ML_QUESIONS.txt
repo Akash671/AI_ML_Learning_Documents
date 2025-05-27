@@ -1,0 +1,211 @@
+overfitting
+outliers
+regression problmes like stocks price 
+underfitting,overfitting
+my role in project
+how many project worked on
+full project explanation (5G network slice , quora question pairing, spceship titanic, medical AI agent, LTE/5G log analyzer)
+most challenging proble u faced
+DaAI project
+regularization techniques
+cross validation techniques***
+what is classificationa and regression in ML
+types of ML (supervised and unsupervised and reinforcement with full details)
+how to handle large ammount of data 
+
+database (mysql,mongodb learn in depth and practice in depth)
+
+
+
+required lot of practice on thease projects to become expert..
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+### HCLTech projects..............
+1. Build AI/ML sandbox for 5G network slice,dynamic resource allocation and network optimization [AI/ML](end to end full process)
+2. DaAI Data cleaning Intelegent tool [AI] (full end to end full process)
+3. 5G/LTE duplicate question/logs pair classification[NLP and ML/DL] (full step by step process)
+4. Medical AI agent [GenAI] (full end to end process) for HCL Health Care Depatment
+5. LTE/5G logs analyzer [GenAI]
+
+### kaggle projects:.................
+1. titanic spceship [end to end full detais]
+2. Quora duplicate question classification [end to end full details]
+3. covid-19 test classification [end to end full details]
+4. Forcast Energy Consumptio (time seriese problem)
+5. stock price prediction(time series problem)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+### challenges faced:
+1. Data-Related Challenges:
+
+Data quality issues: 
+This is a classic and highly relatable challenge. Mentioning struggles with noisy data, missing values, inconsistencies, biases, 
+or imbalanced datasets demonstrates a realistic understanding of real-world data limitations. Example: "In my project on [project name], the biggest 
+hurdle was dealing with inconsistent labeling in the dataset. We had to implement a rigorous data cleaning and augmentation pipeline, including 
+[mention specific techniques used, e.g., active learning, data imputation], to improve the model's performance."
+
+Data scarcity: 
+Explain how you overcame the lack of sufficient data for your task. Did you use data augmentation, transfer learning, or other techniques? Example: 
+"For [project name], obtaining labeled data was extremely difficult. We addressed this by using transfer learning from a pre-trained model on a 
+similar dataset and then fine-tuning it on our limited data, resulting in [quantifiable results]."
+
+Data labeling: 
+If you were involved in data labeling, discuss the challenges of ensuring accuracy and consistency. Example: "In [project name], 
+the labeling process was particularly challenging due to the subjective nature of the task. We addressed this by developing 
+clear guidelines, using multiple annotators, and implementing inter-annotator agreement checks to ensure high-quality labels."
+
+
+
+
+2. Model-Related Challenges:
+
+Model selection: 
+Explain the difficulty of choosing the right model for a specific task and how you approached the problem. Example: 
+"Selecting the optimal model for [project name] was challenging. We experimented with several architectures, including 
+list models], and evaluated their performance using [metrics]. Ultimately, [chosen model] proved most effective due to its [explain reasoning]."
+
+Overfitting/Underfitting: 
+Describe how you diagnosed and addressed these common issues. Example: "In [project name], we initially struggled with overfitting. 
+We mitigated this by using regularization techniques like dropout and early stopping, and by carefully tuning hyperparameters using [mention techniques like cross-validation]."
+
+Computational 
+
+limitations: 
+If you faced constraints in computing resources (memory, processing power), explain how you overcame them. Example: "The large size of the dataset in 
+[project name] presented computational challenges. To address this, we employed techniques like data sharding and distributed training using [mention specific tools or frameworks]."
+
+
+--->large datasets and u don't have the required to processing this large dataset so how to handle this we have differenrt techniques to handle this
+like batch methods  divide the data set into batch.
+
+1. Data Generators and Iterators:
+Concept: Instead of loading the entire dataset into memory at once, use generators or iterators to load and process data in batches. This allows you to work with a small portion of the data at a time.
+
+
+
+Interview
+
+It consist of 3 rounds, which includes manager, senior manager and a developer. Question: Previous Project and what you have done in Data Science Architechure of a algorithm used in project and business use case questions for projects
+
+Interview questions [1]
+
+Question 1
+
+What is architechture of algorithm used, machine learning concepts, basic of python and sql. Cloud Experience and what all tools we have used
+
+
+
+####-------------------------------------------------------------
+Bagging
+Bagging stands for Bootstrap Aggregating, and it aims to reduce the variance of a model by averaging the results of multiple models trained on different samples of the data. One common example of a bagging model is the Random Forest.
+
+Boosting
+Boosting aims to reduce the bias of a model by training multiple models sequentially, each trying to correct the errors of the previous ones. One common example of a boosting model is XGBoost.
+
+Stacking
+Stacking involves training multiple models (base learners) and a meta-model that combines their predictions.
+
+
+
+PWC inteerview : 
+
+
+Explain Latent Dirichlect Allocation, 
+PCA vs LDA, Explain one of the ML project in detail, 
+issues that I faced and how I dealt with them
+
+technical interview: knowledge about ML, such as if overfitting, 
+what's the way to mitigate? if data imbalance, what's the way to mitigate for that? 
+Second Interview with a presentation. demo a case you are the most proud of. prepare a ppt 
+slides before the interview. and demo this case to the interview for 30 mins. 
+Third interview is with your manager. Behavior questions and some business senses questions.
+
+Interview questions [1]
+
+Question 1
+
+if overfitting, what's the way to mitigate? if data imbalance, what's the way to mitigate for that?
+
+
+nterview questions [1]
+
+Question 1
+
+What would you ideal role look like at pwc Explain a logistic regression to someone who never studied mathematics Talk about your ML projects.
+ What model, what metric, what loss, why these choices. Outcome of the project. Tell me what you understood from what we do (partner)
+
+
+Interview questions [1]
+
+Question 1
+
+Technical interview: Was given a dataset and asked to give a general presentation on my findings from the dataset as if I was presenting to a client
+
+
+Interview questions [1]
+
+Question 1
+
+Python oops concept, data types concept, discussion on map, lambda and a basic python question. In SQl the question was related to use of nested query. Basic ml concepts and statistics concepts were discussed.
+
+Interview questions [1]
+
+Question 1
+
+Can you explain the difference between a LEFT JOIN and a INNER JOIN in SQL?
+
+Interview questions [1]
+
+Question 1
+
+I was asked about what programing languages I know and was asked to share experiences with project where different analytical approaches were used: 
+about the kind of tool selected, the reasons for that selection and the results obtained. Also, I got questions about how did a managed projects in 
+the past and the kind of issues and solutions I faced.
+
+
+
+Interview
+
+HR reached out to my on linkedin. First 15 minutes call was with HR. After a week, the second phone interview (around 45 mins) was with their senior data scientist and senior consultant. I waited about 2 weeks and followed up with HR; I was then told that they were moving forward with other candidates.
+
+Interview questions [3]
+
+Question 1
+
+What's the difference between a Boosted Trees and Random Forest algorithm?
+
+1 Answer
+Question 2
+
+What is PCA? Does it apply to categorical data or continuous data?
+
+1 Answer
+Question 3
+
+Let's say you finished developing a machine learning model and you are getting 95% accuracy. Should you be happy?
+
+
+
+
+Interview questions [1]
+
+Question 1
+
+Customer segmentation. How to maintain model accuracy over a time Features selection
+
+
+
+
+Interview
+
+-Technical Interview with code questions / debugging skills / way to improve the model / mathematical questions. -Questions about our previous experience, what kind of project we did, how we manage issues.
+
+Interview questions [1]
+
+Question 1
+
+-Explain a ML algorithm
